@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm mahamadali nadaf</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="">
+<img align="right"alt="coding"width="400"src="">![image](https://github.com/mdali09/mdali/assets/124768413/68fb8eed-55b1-429c-bc96-e2a0f31057aa)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdali09&label=Profile%20views&color=0e75b6&style=flat" alt="mdali09" /> </p>
 
